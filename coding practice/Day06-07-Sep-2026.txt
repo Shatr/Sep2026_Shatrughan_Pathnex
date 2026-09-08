@@ -75,3 +75,4 @@ CMD ["node", "/opt/pathnex/node-app/app.js"]
 
 # Real Path
 /opt/pathnex/node-app
+.
