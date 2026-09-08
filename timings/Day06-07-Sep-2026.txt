@@ -1,7 +1,0 @@
-What I did today?
-
-Watch your youtube video of AWS-1 class
-
-Learn so much services of AWS Services Like EC2, IAM, S3 and there type
-
-Attended your 30 min videos of CI CD as well. 
