@@ -1,9 +1,0 @@
-What I did today?
-
-Watch your youtube video of AWS-2 class
-
-Learn so much services of AWS Services Like SSM, Auto-scaling, C.W, C.T, CloudFront, SGvs NACL
-
-Attended your 30 min videos of CI CD as well. 
-
-Need to improve much more
