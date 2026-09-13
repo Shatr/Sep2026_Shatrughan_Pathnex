@@ -1,0 +1,8 @@
+What I learn today
+
+So today i learn about kubernetes and its component 
+Also k8s architecture which consist of 2 imp cluster component i.e Master and worker node.
+MAster has component which include Api-server,etcd,scheduler, controller manager
+Worker node consist of kubelet, kubeproxy,containerd, CNI, pod(smallest deployable unit)
+
+then tried to prepare the theory part of docker
