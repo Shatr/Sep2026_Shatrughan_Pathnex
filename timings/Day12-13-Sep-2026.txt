@@ -1,0 +1,17 @@
+What I learn today
+
+So today i learn about kubernetes and its component 
+Also k8s architecture which consist of 2 imp cluster component i.e Master and worker node.
+MAster has component which include Api-server,etcd,scheduler, controller manager
+Worker node consist of kubelet, kubeproxy,containerd, CNI, pod(smallest deployable unit)
+
+Even in today video covered lot of component 
+like provisioning of eks cluster with the help of terraform which include terraform configuration file main part of eks cluster i s
+eks cluster node group with attached iam role with policy and created the cluster in multiple Az so application should be higly available
+and added add-on for monitoring and logging and created the cluster.
+
+As part of troubleshooting
+
+troubleshooted ebs- csi driver which create PV , PVC
+
+we have seen cluster autoscaler to manage the node as 1 node is occupied by the pod & remianig pod is failed to schedule on thae same node.
