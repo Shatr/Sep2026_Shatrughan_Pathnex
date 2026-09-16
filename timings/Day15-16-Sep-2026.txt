@@ -1,0 +1,7 @@
+What I learn today
+
+From todays video learn about daemonset, deployment, replicaset,pod, StatefulSet, Node affinity, Pod affinity, pod anti-affinity,
+Readiness probe, liveness probe, ready state probe, DIscuss about todays imp interview topic like, crash loop back off error,
+pod pending state error, OOM error, also discuss about the helm template that helps us to maintain the manifest file by using helm chart.
+
+Done all the 4 task
