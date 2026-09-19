@@ -1,0 +1,13 @@
+what i learn today!
+
+Today i learnt about argo continour delivery/deployment again we have created a EKS cluster as well one bastion host to connect with cluster
+with the help of terraform and enable the security group in eks cluster SG so that it acan hit the api and access the cluster and configyre
+with IAM role having access and secret access ID key, after that we have install argo server which run it from git repo after creation argocd 
+run well still in our repo file we have not defined namespace which we have troubleshoot accordingly and run the server which is expose at the 
+outer world to see in live our application running after that we deployed nginx application as well
+
+Seen multiple things like outofsync,upgraded,degrade, missing, unknown, healthy how application behave as argo cd is also known as
+gitops as well it will monitor the git repo and maintain the desired state of git and current eks cluster state accordingly.
+Whatever the applicaiton push it into git it will track the changes and run it on argocd directly if it fails it will try to sync automatically,
+thre is several feature to rollback if still deployment or pod get deleted in backend still argo cd will be up and running if it fails to upgrade
+the version it will be degraded and still run.
