@@ -1,0 +1,5 @@
+what i learn today?
+
+So today again i have watch the august video of argo cd and k8s section for clear understanding 
+
+Waiting for todays evening terraform class.
