@@ -1,0 +1,5 @@
+what i learn today?
+
+So from todays video learn about the ansible which is configuration mgmt tool from basic to advance.
+As we already perform the infrastructure with the help of terraform make the ec2 instances that is jump server and created 3 ec2 instances
+as part of learing for ansible. Then we proceed with code and learn the precendece that have high priority which include terraform.tf.vars instead of variable.tf then we connect the other server via ssh that is agentless which is connected with the help of inventory file inside thr host ip is mention there with the help of that all the patching and packing of software & installation is done, and also troubleshooted the ansible configuration file which is not compatible with the python version then troubleshooted eaach problem as well and fix it 
