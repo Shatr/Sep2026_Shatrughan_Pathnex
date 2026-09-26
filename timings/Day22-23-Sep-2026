@@ -1,0 +1,3 @@
+what i learn today?
+
+From today session understood about GitHub Actions concepts like workflow, pipeline, job, stage, step, shared runner and self-hosted runner. I also learned Jenkins basics, including Jenkinsfile, Groovy, agents, pipelines, and how to expose the application on port 8080 & included how to integrate the github with jenkins so without manual intervention it will automate the deployment as well. 
