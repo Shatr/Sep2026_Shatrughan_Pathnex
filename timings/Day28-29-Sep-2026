@@ -1,0 +1,5 @@
+what i learn today?
+
+In symmetric encryption, the same key is used for both encryption and decryption. The sender encrypts the data using a secret key, and the receiver uses the same key to decrypt it. It is very fast and is commonly used for encrypting large amounts of data. AES is a popular example.
+
+In asymmetric encryption, we use two different keys: a public key and a private key. The public key can be shared with anyone, but the private key must be kept secret. Data encrypted with the public key can be decrypted using the corresponding private key. Examples include RSA and ECC.
